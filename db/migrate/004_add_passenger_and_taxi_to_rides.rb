@@ -7,4 +7,5 @@ end
 
 
 #join table, many to one relationship
-#passengers have many taxis, taxis have many rides 
+#foreign keys: columns that refer to the primary key of another table.
+#taxi_id and passenger_id 
