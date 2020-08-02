@@ -4,4 +4,5 @@ class Passenger < ActiveRecord::Base
 end
 
 
-#has many through join model 
+#has many through join model
+# @passenger.rides @passenger.taxis  
